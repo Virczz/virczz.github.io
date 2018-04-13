@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+
 # RabbitMQ 简单使用步骤
 参考 [Net分布式系统之四：RabbitMQ消息队列应用](https://www.cnblogs.com/Andon_liu/p/5401961.html)
 
